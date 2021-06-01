@@ -33,6 +33,9 @@ namespace OneDayApp.Data
             return new ApplicationDbContext();
         }
 
+        //This is where your damn dbset goes. get it right because i probably wont.
+
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
