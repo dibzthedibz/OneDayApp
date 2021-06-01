@@ -37,6 +37,7 @@ namespace OneDayApp.Data
         //And this is a comment to accompany the above comment, for your viewing pleasure.
         //And heres another one.
         //Here we go
+        //1 more
 
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
