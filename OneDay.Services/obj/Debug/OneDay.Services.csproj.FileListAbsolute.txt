@@ -1,0 +1,6 @@
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Services.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Services.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.AssemblyReference.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.pdb

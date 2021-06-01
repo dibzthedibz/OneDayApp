@@ -1,0 +1,6 @@
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\bin\Debug\OneDay.Models.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\bin\Debug\OneDay.Models.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.csproj.AssemblyReference.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.csproj.CoreCompileInputs.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.pdb
