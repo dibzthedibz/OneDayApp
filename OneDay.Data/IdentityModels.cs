@@ -36,6 +36,8 @@ namespace OneDayApp.Data
         //This is where your damn dbset goes. get it right because i probably wont.
         //And this is a comment to accompany the above comment, for your viewing pleasure.
         //And heres another one.
+        //Here we go
+
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
