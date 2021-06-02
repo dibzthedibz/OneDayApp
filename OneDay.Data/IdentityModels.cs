@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
+using OneDay.Data;
 
 namespace OneDayApp.Data
 {
@@ -33,9 +34,16 @@ namespace OneDayApp.Data
             return new ApplicationDbContext();
         }
 
+        /// <summary>
+        /// Sam added
+        /// </summary>
+        public DbSet<Post> Posts { get; set; }
+        
         //This is where your damn dbset goes. get it right because i probably wont.
         //And this is a comment to accompany the above comment, for your viewing pleasure.
         //And heres another one.
+
+        // And another one
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

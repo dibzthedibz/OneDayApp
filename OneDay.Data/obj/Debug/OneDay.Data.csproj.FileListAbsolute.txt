@@ -26,3 +26,36 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.CopyComplete
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\OneDay.Data.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\OneDay.Data.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\OneDay.Data.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Newtonsoft.Json.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Owin.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\Newtonsoft.Json.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.csproj.CopyComplete
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Web.Http.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Net.Http.Formatting.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Web.Http.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.csprojAssemblyReference.cache
