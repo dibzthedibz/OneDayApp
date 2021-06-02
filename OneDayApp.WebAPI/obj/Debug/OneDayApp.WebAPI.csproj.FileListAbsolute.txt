@@ -117,3 +117,8 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayA
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.csproj.CopyComplete
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Models.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Models.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.dll.config
