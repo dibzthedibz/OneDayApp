@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,6 +17,7 @@ namespace OneDay.Data
         [Required]
         public Guid AuthorId { get; set; }
 
-        //[ForeignKey(nameof("Comment"))] comment id, Author Id
+        //[ForeignKey(nameof(Comment))]
+        //public virtual Comment Comment { get; set; }
     }
 }

@@ -14,6 +14,5 @@ namespace OneDay.Models
         [MaxLength(150, ErrorMessage = "Max 150 Characters")]
         public string Text { get; set; }
 
-        //[ForeignKey] comment id
     }
 }
