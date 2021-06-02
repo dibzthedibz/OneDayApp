@@ -55,3 +55,12 @@ C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csp
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.dll
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.pdb
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Web.Http.Owin.dll
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.Migrations.Firstmigration.resources

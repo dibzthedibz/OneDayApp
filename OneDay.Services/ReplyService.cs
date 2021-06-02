@@ -22,8 +22,9 @@ namespace OneDay.Services
         {
             var entity =
                 new Reply()
-                {                 
-                    Text = model.Text,                    
+                {
+                    AuthorId = _authorId,
+                    Text = model.Text                    
                 };
 
             using (var ctx = new ApplicationDbContext())

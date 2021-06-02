@@ -236,3 +236,9 @@ C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.csproj.CopyComplete
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.dll
 C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\obj\Debug\OneDayApp.WebAPI.pdb
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Models.dll
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.dll
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Models.pdb
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Models.dll.config
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.pdb
+C:\ElevenFiftyProjects\BlueBadge\OneDayApp\OneDayApp.WebAPI\bin\OneDay.Services.dll.config
