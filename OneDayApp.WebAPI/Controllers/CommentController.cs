@@ -16,7 +16,7 @@ namespace OneDayApp.WebAPI.Controllers
         private CommentService CreateCommentService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
-            var commentService = new CommentService(userId);
+            var commentService = new CommentService(userId));
             return commentService;
         }
         public IHttpActionResult Get()
