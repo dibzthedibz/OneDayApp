@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace OneDay.Models
 {
-    class CommentListItem
+    public class CommentListItem
     {
+        public int CommentId { get; set; }
+        public string Text { get; set; }
+
     }
 }
