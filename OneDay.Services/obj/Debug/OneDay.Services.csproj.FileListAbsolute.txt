@@ -4,3 +4,25 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Services.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Services.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\obj\Debug\OneDay.Services.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\obj\Debug\OneDay.Services.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Services.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Data.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Models.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Data.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Data.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Models.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\OneDay.Models.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\obj\Debug\OneDay.Services.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Services\obj\Debug\OneDay.Services.csproj.CopyComplete

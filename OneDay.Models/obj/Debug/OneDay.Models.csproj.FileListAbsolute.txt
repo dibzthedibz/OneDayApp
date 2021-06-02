@@ -4,3 +4,19 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.csproj.CoreCompileInputs.cache
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Models\obj\Debug\OneDay.Models.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\OneDay.Models.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\OneDay.Models.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\obj\Debug\OneDay.Models.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\obj\Debug\OneDay.Models.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\obj\Debug\OneDay.Models.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\obj\Debug\OneDay.Models.pdb
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\OneDay.Models.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Models\obj\Debug\OneDay.Models.csproj.CopyComplete
