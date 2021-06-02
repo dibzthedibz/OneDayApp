@@ -242,3 +242,4 @@ D:\ElevenFiftyProjects\1DayAPI\OneDayApp.WebAPI\bin\OneDay.Models.pdb
 D:\ElevenFiftyProjects\1DayAPI\OneDayApp.WebAPI\bin\OneDay.Models.dll.config
 D:\ElevenFiftyProjects\1DayAPI\OneDayApp.WebAPI\bin\OneDay.Services.pdb
 D:\ElevenFiftyProjects\1DayAPI\OneDayApp.WebAPI\bin\OneDay.Services.dll.config
+D:\ElevenFiftyProjects\1DayAPI\OneDayApp.WebAPI\bin\WebActivatorEx.dll

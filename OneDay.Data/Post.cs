@@ -21,4 +21,6 @@ namespace OneDay.Data
         [Required]
         public Guid AuthorId { get; set; }
     }
+
+    /// A foreign key is a reference to a primary key from a different class
 }

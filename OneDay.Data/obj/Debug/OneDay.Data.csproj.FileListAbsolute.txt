@@ -59,3 +59,6 @@ D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Web.Http.dll
 D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Net.Http.Formatting.xml
 D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\bin\Debug\System.Web.Http.xml
 D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.Migrations.InitialCreate.resources
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.csproj.GenerateResource.cache
+D:\ElevenFiftyProjects\1DayAPI\OneDay.Data\obj\Debug\OneDay.Data.Migrations.FirstMigration.resources

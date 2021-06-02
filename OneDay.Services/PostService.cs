@@ -1,7 +1,6 @@
 ﻿using OneDay.Data;
 using OneDay.Models;
 using OneDayApp.Data;
-//using OneDayApp.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -75,6 +74,7 @@ namespace OneDay.Services
                         PostId = entity.PostId,
                         Title = entity.Title,
                         Text = entity.Text,
+                        // Dont think we need these
                         //CreatedUtc = entity.CreatedUtc,
                         //ModifiedUtc = entity.ModifiedUtc
                     };
