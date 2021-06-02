@@ -5,17 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneDay.Data
+namespace OneDay.Models
 {
-    public class Reply
+    public class CreateReply
     {
-        [Key]
-        public int ReplyId { get; set; }
         [Required]
+        [MinLength(1, ErrorMessage = "Please enter at least one character")]
+        [MaxLength(150, ErrorMessage = "Max 150 Characters")]
         public string Text { get; set; }
-        [Required]
-        public Guid AuthorId { get; set; }
 
-        //[ForeignKey(nameof("Comment"))] comment id, Author Id
+        //[ForeignKey] comment id
     }
 }
