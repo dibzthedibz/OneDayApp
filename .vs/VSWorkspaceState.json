@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OneDay.Data",
-    "\\OneDay.Data\\Migrations",
-    "\\OneDay.Models",
-    "\\OneDay.Services",
-    "\\OneDayApp.WebAPI",
-    "\\OneDayApp.WebAPI\\Controllers"
+    "\\OneDay.Services"
   ],
-  "SelectedNode": "\\OneDay.Models\\CreateReply.cs",
+  "SelectedNode": "\\OneDay.Services\\OneDay.Services.csproj",
   "PreviewInSolutionExplorer": false
 }
