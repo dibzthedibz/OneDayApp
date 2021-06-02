@@ -9,8 +9,8 @@ using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
 using OneDayApp.WebAPI.Providers;
-using OneDayApp.WebAPI.Models;
-using OneDayApp.Data;
+
+using OneDay.Data;
 
 namespace OneDayApp.WebAPI
 {
