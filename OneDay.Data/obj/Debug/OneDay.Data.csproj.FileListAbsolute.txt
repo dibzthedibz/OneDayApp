@@ -1,4 +1,3 @@
-S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.CoreCompileInputs.cache
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\OneDay.Data.dll.config
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\OneDay.Data.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\OneDay.Data.pdb
@@ -23,6 +22,9 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\bin\Debug\Newtonsoft.Json.xml
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.Migrations.commentAdded.resources
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.GenerateResource.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.CoreCompileInputs.cache
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.csproj.CopyComplete
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Data\obj\Debug\OneDay.Data.pdb

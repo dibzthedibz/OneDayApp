@@ -206,6 +206,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CommentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -310,6 +311,14 @@
     <ProjectReference Include="..\OneDay.Data\OneDay.Data.csproj">
       <Project>{70E02266-78BF-489A-B58D-0DD57AF0B304}</Project>
       <Name>OneDay.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OneDay.Models\OneDay.Models.csproj">
+      <Project>{37DD5BFC-B5F8-4AFD-8F62-2E8B9D9D0911}</Project>
+      <Name>OneDay.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OneDay.Services\OneDay.Services.csproj">
+      <Project>{E4C47489-2A93-4634-B402-3DB91D5D2439}</Project>
+      <Name>OneDay.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

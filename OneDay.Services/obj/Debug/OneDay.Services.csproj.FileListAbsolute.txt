@@ -1,6 +1,37 @@
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Services.dll.config
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Services.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Services.pdb
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bcfee4b8e5bcc021060be6ef8632a7cbe9b0fb48
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\EntityFramework.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\EntityFramework.SqlServer.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Data.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Models.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Data.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Data.dll.config
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\OneDay.Models.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\EntityFramework.xml
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\EntityFramework.SqlServer.xml
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.AssemblyReference.cache
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.AssemblyReference.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
+>>>>>>> parent of c32b2d3 (Final Commite Pre-Merge)
+=======
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.AssemblyReference.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.csproj.CoreCompileInputs.cache
+>>>>>>> parent of c32b2d3 (Final Commite Pre-Merge)
+=======
+>>>>>>> bcfee4b8e5bcc021060be6ef8632a7cbe9b0fb48
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTockTime\OneDayApp\OneDay.Services\obj\Debug\OneDay.Services.pdb

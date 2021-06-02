@@ -13,7 +13,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using OneDayApp.Data;
+using OneDay.Data;
 using OneDayApp.WebAPI.Models;
 using OneDayApp.WebAPI.Providers;
 using OneDayApp.WebAPI.Results;

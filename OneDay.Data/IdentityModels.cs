@@ -7,7 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 
-namespace OneDayApp.Data
+namespace OneDay.Data
 {
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit https://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
@@ -33,10 +33,7 @@ namespace OneDayApp.Data
             return new ApplicationDbContext();
         }
 
-        //This is where your damn dbset goes. get it right because i probably wont.
-        //And this is a comment to accompany the above comment, for your viewing pleasure.
-        //And heres another one.
-        //Here we go
+        public DbSet<Comment> Comments { get; set; }
 
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
