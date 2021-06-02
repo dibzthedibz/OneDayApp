@@ -3,7 +3,8 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
-using OneDay.Data;
+using OneDayApp.Data;
+using OneDayApp.WebAPI.Models;
 
 namespace OneDayApp.WebAPI
 {
